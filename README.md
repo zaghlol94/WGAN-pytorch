@@ -7,7 +7,7 @@ Yann LeCun saw GANs as "the most fascinating idea in the last 10 years in ML" wh
 GANS are frequently used to make deep fake films, improve the quality of images, face swap, design gaming characters, and much more. 
 
 The Wasserstein Generative Adversarial Network, or Wasserstein GAN, is an extension to the generative adversarial network that both improves the stability when training the model and provides a loss function that correlates with the quality of generated images.
-The development of the WGAN has a dense mathematical motivation, although in practice requires only a few minor modifications to the established standard deep convolutional generative adversarial network, or DCGAN.
+The development of the WGAN has a dense mathematical motivation, although in practice requires only a few minor modifications to the established standard deep convolutional generative adversarial network, or DCGAN. more info from [here](https://www.alexirpan.com/2017/02/22/wasserstein-gan.html)
 # Setup and Generate
 This code is developed under following library dependencies
 ```commandline
