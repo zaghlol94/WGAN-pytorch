@@ -1,4 +1,5 @@
 config = {
+    "training_root_folder": "celeb_dataset",
     "LEARNING_RATE": 5e-5,  # could also use two lrs, one for gen and one for disc
     "BATCH_SIZE": 64,
     "IMAGE_SIZE": 64,
